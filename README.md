@@ -9,4 +9,7 @@ Advantages :
 Tool(s) and Method :
 Microsoft Excel, Web Scraping, Python, MachineLearning (CNN)
 
+# Contributors 
+1. Latifah Nursyabanu
+2. Siti Almuafiyah
  
